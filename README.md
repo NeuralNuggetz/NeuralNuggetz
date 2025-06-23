@@ -13,7 +13,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-👨🏻‍💻**About Me** <img src="https://github.com/ISmokeData/ISmokeData/blob/main/animegif.gif" min-width="300px" max-width="300px" width="350px" align="right">
+👨🏻‍💻**About Me** <img src="https://github.com/NeuralNuggetz/NeuralNuggetz/blob/main/animegif.gif" min-width="300px" max-width="300px" width="350px" align="right">
 ✨Passionate Data Science and AI Student <br>
 📝Read My Blogs on [Medium](https://medium.com/@vermadhanraj015) <br> 
 💬 Ask me about Mathematics/Data Science <br>
@@ -75,14 +75,14 @@
 Below are the few resources.👇<br>
  📙Data Science [E-books](https://drive.google.com/drive/folders/1Hrp4bHSDkKYpbjAkMz6dr6pJFUtjzwqS?usp=drive_link)<br>
  📘Deep Learning [Notes](https://drive.google.com/drive/folders/10TBLexI9KoBxWq10Xgg8M2PCDaqjXf5M?usp=drive_link)<br>
- 📗PyTorch [Repository](https://github.com/ISmokeData/PyTorch)<br>
+ 📗PyTorch [Repository](https://github.com/NeuralNuggetz/PyTorch)<br>
 
 <!--- 2nd Section on GitHub Analytics -->
 
 ⚙️ GitHub Analytics <br>
 <div align=left>
-<img  width=500 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISmokeData&theme=github_dark"/>
-<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISmokeData&theme=github_dark" alt="readme stats" />
+<img  width=500 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeuralNuggetz&theme=github_dark"/>
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NeuralNuggetz&theme=github_dark" alt="readme stats" />
 </div>
 
 <!--- 3rd Section on Recent Projects -->
@@ -90,9 +90,9 @@ Below are the few resources.👇<br>
   <details>
 <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 	  
-✨ Deep Learning [Repository](https://github.com/ISmokeData/Deep_Learning) <br>
-✨ PyTorch Beginner to Advance with [Code](https://github.com/ISmokeData/PyTorch) <br>
-✨ IBM Employee Attrition [Project](https://github.com/ISmokeData/IBM_Empolyee_Attrition_FullStack_site) <br>
+✨ Deep Learning [Repository](https://github.com/NeuralNuggetz/Deep_Learning) <br>
+✨ PyTorch Beginner to Advance with [Code](https://github.com/NeuralNuggetz/PyTorch) <br>
+✨ IBM Employee Attrition [Project](https://github.com/NeuralNuggetz/IBM_Empolyee_Attrition_FullStack_site) <br>
 
   </details>
 
